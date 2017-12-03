@@ -1,7 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP BOOST_BOARD
-D 4-pin boost regulator board
-$ENDCMP
-#
 #End Doc Library
